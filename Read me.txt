@@ -1,0 +1,9 @@
+1) please ignore whether or not the formula is correct, they are wrong but that was an early example i tried to by myself to test my skills. 
+2) Note that i haven't included all the "else if" options therefore there are logical mistakes..!
+3) on this software i am trying to show the GUI
+4) also i am showing that if they leave one text field empty the code can jump to another formula..!
+5) i can fix the logic if required.. just by adding all the options
+6) the drop downlists, the check boxes and the radio buttons are not doing anything on this programm but now i know how to activate them 
+
+
+
